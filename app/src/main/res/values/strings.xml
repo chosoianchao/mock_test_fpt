@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mock1</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="money">Money</string>
+    <string name="add">ADD</string>
+    <string name="update">Update</string>
+    <string name="display">Display</string>
+    <string name="sort_by_name">sort by name</string>
+    <string name="sort_by_money">sort by money</string>
+    <string name="search">Search</string>
+</resources>
